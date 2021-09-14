@@ -16,10 +16,10 @@ def words (user_input):
   sayings = [
     "Really?",
     "OUTRAGEOUS!", 
-    "Ok", 
-    "mmhmmmm", 
-    "Ugh, gag me with a spoon", 
-    "As if", 
+    "Ok.", 
+    "mmhmmmm.", 
+    "Ugh, gag me with a spoon!", 
+    "As if!", 
     "How Bri'ish", 
     "so?"
     ]
