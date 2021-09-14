@@ -21,7 +21,7 @@ def words (user_input):
     "Ugh, gag me with a spoon", 
     "As if", 
     "How Bri'ish", 
-    "so.?"
+    "so?"
     ]
   return random.choice(sayings)
 
